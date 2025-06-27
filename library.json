@@ -1,0 +1,20 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "A minimal library for the DS3231 RTC that is compatible with the BLE Current Time Service",
+  "keywords": "DS3231",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/username/hello-world.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Jack Gumoes"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "Arduino",
+  "platforms": "*"
+}
